@@ -1,0 +1,65 @@
+D:\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.exe
+D:\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.deps.json
+D:\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.runtimeconfig.json
+D:\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.dll
+D:\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.pdb
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.csproj.AssemblyReference.cache
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.Form1.resources
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.Properties.Resources.resources
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.csproj.GenerateResource.cache
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.AssemblyInfoInputs.cache
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.AssemblyInfo.cs
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.csproj.CoreCompileInputs.cache
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.dll
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\refint\RoBot.dll
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.pdb
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.genruntimeconfig.cache
+D:\RoBot\RoBot\obj\Debug\net6.0-windows\ref\RoBot.dll
+D:\OUTSOURCE\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.exe
+D:\OUTSOURCE\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.deps.json
+D:\OUTSOURCE\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.runtimeconfig.json
+D:\OUTSOURCE\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.dll
+D:\OUTSOURCE\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.pdb
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.csproj.AssemblyReference.cache
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.Properties.Resources.resources
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.csproj.GenerateResource.cache
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.AssemblyInfoInputs.cache
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.AssemblyInfo.cs
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.csproj.CoreCompileInputs.cache
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.dll
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\refint\RoBot.dll
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.pdb
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.genruntimeconfig.cache
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\ref\RoBot.dll
+D:\OUTSOURCE\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.Form1.resources
+D:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.csproj.AssemblyReference.cache
+D:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.Form1.resources
+D:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.Properties.Resources.resources
+D:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.csproj.GenerateResource.cache
+D:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.AssemblyInfoInputs.cache
+D:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.AssemblyInfo.cs
+D:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.csproj.CoreCompileInputs.cache
+D:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.dll
+D:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\refint\RoBot.dll
+D:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.pdb
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.csproj.AssemblyReference.cache
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.Form1.resources
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.Properties.Resources.resources
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.csproj.GenerateResource.cache
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.GeneratedMSBuildEditorConfig.editorconfig
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.AssemblyInfoInputs.cache
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.AssemblyInfo.cs
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.csproj.CoreCompileInputs.cache
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.dll
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\refint\RoBot.dll
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.pdb
+F:\OutSource\BTL RSA\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.exe
+F:\OutSource\BTL RSA\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.deps.json
+F:\OutSource\BTL RSA\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.runtimeconfig.json
+F:\OutSource\BTL RSA\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.dll
+F:\OutSource\BTL RSA\RoBot\RoBot\bin\Debug\net6.0-windows\RoBot.pdb
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\RoBot.genruntimeconfig.cache
+F:\OutSource\BTL RSA\RoBot\RoBot\obj\Debug\net6.0-windows\ref\RoBot.dll
